@@ -3,7 +3,7 @@ let computerScore = 0;
 let currentRoundNumber = 1;
 
 // Write your code below:
-function generateTarget(){]
+function generateTarget(){
     //generate ramdom number from 0 to 9
     return Math.floor(Math.random() * 10); 
 }
